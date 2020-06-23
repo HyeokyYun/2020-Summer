@@ -1,4 +1,4 @@
-//
+//성적출력
 #include <stdio.h>
 
 int main(void) {
